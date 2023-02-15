@@ -9,7 +9,7 @@ const Logo = () => {
       shadow-lg
     '
     >
-      <Image width='100' height='100' alt='La Crypta Logo' src={LogoSvg} />
+      <Image width='150' height='150' alt='La Crypta Logo' src={LogoSvg} />
     </div>
   );
 };
