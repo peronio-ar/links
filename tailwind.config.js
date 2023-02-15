@@ -9,6 +9,7 @@ module.exports = {
       baskerville: ["New Baskerville"],
       share: ["Share Regular", "Georgia"],
       trade: ["Trade Gothic Regular"],
+      abril: ["Abril Fat Face"]
     },
     extend: {},
   },
