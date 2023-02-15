@@ -56,7 +56,7 @@ const Link = ({ data }: ILinkProps) => {
         target='_blank'
         rel='noreferrer'
         onClick={handleClick}
-        className='flex font-share items-center justify-center bg-white
+        className='flex font-abril items-center justify-center bg-white
         ring-2 ring-gray-900/5 rounded-md p-2
         transition duration-400 ease-out
         hover:bg-slate-50 hover:scale-[1.08]'
