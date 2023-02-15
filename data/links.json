@@ -1,37 +1,37 @@
 [
   {
-    "type": "instagram",
-    "title": "Instagram",
-    "url": "https://instagram.lacrypta.com.ar"
+    "type": "contratos",
+    "title": "Contratos",
+    "url": "https://docs.peronio.ar/crypto/contratos"
   },
   {
     "type": "discord",
     "title": "Discord",
-    "url": "https://discord.lacrypta.com.ar"
+    "url": "https://discord.com/invite/SN8JNhMgvY"
   },
   {
-    "type": "voluntary",
-    "title": "Quiero participar!",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform"
-  },
-  {
-    "type": "github",
-    "title": "Github",
-    "url": "https://github.lacrypta.com.ar"
+    "type": "telegram",
+    "title": "Telegram",
+    "url": "https://t.me/peronioar"
   },
   {
     "type": "twitter",
     "title": "Twitter",
-    "url": "https://twitter.lacrypta.com.ar"
+    "url": "https://twitter.com/PeronioAR"
   },
   {
     "type": "url",
     "title": "Sitio Web",
-    "url": "https://www.lacrypta.com.ar/"
+    "url": "https://www.peronio.ar/"
   },
   {
     "type": "whatsapp",
     "title": "WhatsApp",
     "url": "https://api.whatsapp.com/send/?phone=%2B541131080456&text=Hola+como+estan&type=phone_number&app_absent=0"
-  }
+  },
+  {
+    "type": "youtube",
+    "title": "Youtube",
+    "url": "https://www.youtube.com/channel/UC38iYVTh43O8FEc9T45Rk_Q"
+  },
 ]
