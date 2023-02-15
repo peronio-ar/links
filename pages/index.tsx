@@ -37,7 +37,7 @@ export default function Home() {
       <Container>
         <Paper>
           <Logo />
-          <Title>Peronio</Title>
+          <Title>PERONIO</Title>
           <div className='divide-y divide-gray-300/50'>
             <PaperBody>
               <LinksList links={links as ILink[]} />
