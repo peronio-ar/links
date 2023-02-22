@@ -6,6 +6,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
+      roboto: ["Roboto Regular"],
       baskerville: ["New Baskerville"],
       share: ["Share Regular", "Georgia"],
       trade: ["Trade Gothic Regular"],
