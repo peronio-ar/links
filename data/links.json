@@ -1,8 +1,8 @@
 [
   {
-    "type": "url",
-    "title": "Contratos",
-    "url": "https://docs.peronio.ar/crypto/contratos"
+    "type": "twitter",
+    "title": "Twitter",
+    "url": "https://twitter.com/PeronioAR"
   },
   {
     "type": "discord",
@@ -10,14 +10,14 @@
     "url": "https://discord.com/invite/SN8JNhMgvY"
   },
   {
+    "type": "url",
+    "title": "Contratos",
+    "url": "https://docs.peronio.ar/crypto/contratos"
+  },
+  {
     "type": "telegram",
     "title": "Telegram",
     "url": "https://t.me/peronioar"
-  },
-  {
-    "type": "twitter",
-    "title": "Twitter",
-    "url": "https://twitter.com/PeronioAR"
   },
   {
     "type": "url",
