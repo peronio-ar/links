@@ -11,6 +11,7 @@ module.exports = {
       share: ["Share Regular", "Georgia"],
       trade: ["Trade Gothic Regular"],
       abril: ["Abril Fat Face"],
+      robotoBold: ["Roboto Bold"],
     },
     extend: {},
   },
